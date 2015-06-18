@@ -1,0 +1,3 @@
+Have to try the initial version- 
+	- use a simple password protected encryption system
+	- store passwords
